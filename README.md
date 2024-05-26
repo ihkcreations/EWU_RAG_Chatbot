@@ -18,9 +18,19 @@ This project implements the functionalities of using LLMs (Large Language Models
 <br>
 
 # Tools and Libraries used
-- ***ChromaDB*** : App's vector database for storing embeddings
-- ***GROQ API*** : Fast inferencing with the LLMs hosted inside GROQ's interface.
-- 
+- **[Ollama]** : For creating embeddings using the open source embedding model **'nomic-embed-text'**
+- **[ChromaDB]** : App's vector database for storing embeddings
+- **[GROQ API]**  : Faster inference with the LLMs hosted inside GROQ's interface. 
+- **[LangChain]** : Where most of the libraries are used from.
+
+
+
+
+
+[GROQ API]:https://wow.groq.com/why-groq/ 
+[ChromaDB]:https://docs.trychroma.com/
+[LangChain]:https://python.langchain.com/v0.2/docs/introduction/
+[Ollama]:https://ollama.com/library/nomic-embed-text
 
 
 
