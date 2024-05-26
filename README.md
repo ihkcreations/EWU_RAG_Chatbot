@@ -34,6 +34,9 @@ This project implements the functionalities of using LLMs (Large Language Models
 - After downloading the model, start the **app.py** by typing in the terminal ```streamlit run app.py```
 
 Enjoy asking questions related to our East West University.
+
+# Snapshot of the application
+<img alt="post" width="100%" src="screenshots/appInterface.png"/>
     
 [GROQ API]:https://wow.groq.com/why-groq/ 
 [ChromaDB]:https://docs.trychroma.com/
