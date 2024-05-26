@@ -9,6 +9,8 @@ A RAG (Retrival-Augmented Generation) application on East West University.
 | Nourin Nahar Hridy                   | 2021-1-60-102         |
 | Hasnain Ahmed                        | 2020-1-60-092         |
 
+# Codeocean's capsule link of the app
+**[EWU RAG Chatbot](https://codeocean.com/capsule/7111456/tree)** (Student ID access needed)
 
 ## Objective
 This project implements the functionalities of using LLMs (Large Language Models) of ***GROQ API Interface*** to answer questions based on its own dataset. 
@@ -34,6 +36,8 @@ This project implements the functionalities of using LLMs (Large Language Models
 - After downloading the model, start the **app.py** by typing in the terminal ```streamlit run app.py```
 
 Enjoy asking questions related to our East West University.
+
+
 
 # Snapshot of the application
 <img alt="post" width="100%" src="screenshots/appInterface.png"/>
