@@ -1,0 +1,8 @@
+chainlit
+streamlit
+langchain
+langchain_community
+langchain_core
+dotenv
+chromadb
+
