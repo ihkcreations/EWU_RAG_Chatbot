@@ -14,5 +14,13 @@ A RAG (Retrival-Augmented Generation) application on East West University.
 This project implements the functionalities of using LLMs (Large Language Models) of ***GROQ API Interface*** to answer questions based on its own dataset. 
 
 ## Process Flowchart of EWU RAG Chatbot
+<img alt="post" width="100%" src="screenshots/EWURagFlowchart.jpg"/>
+<br>
+
+# Tools and Libraries used
+- ***ChromaDB*** : App's vector database for storing embeddings
+- ***GROQ API*** : Fast inferencing with the LLMs hosted inside GROQ's interface.
+- 
+
 
 
