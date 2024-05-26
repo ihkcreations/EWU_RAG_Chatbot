@@ -2,6 +2,6 @@ streamlit
 langchain
 langchain_community
 langchain_core
-dotenv
+python-dotenv
 chromadb
 
