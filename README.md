@@ -1,5 +1,5 @@
 # EWU_RAG_Chatbot <img alt="post" width="20%" src="screenshots/ewuLogo.png"/>
-A RAG (Retrival-Augmented Generation) application on East West University.
+A RAG (Retrival-Augmented Generation) application on East West University(Only Science Faculty).
 
 # Contributors
 | Name                                 | Student ID            | 
