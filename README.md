@@ -28,8 +28,9 @@ This project implements the functionalities of using LLMs (Large Language Models
 - **[Streamlit]** : App's framework or UI (User Interface)
 
 # Requirements to run the app
+- Clone the repository by typing in the terminal ```git clone https://github.com/ihkcreations/EWU_RAG_Chatbot.git```
 - Install the necessary libraries first in a virtual python environment by typing ```pip install -r requirements.txt``` 
-- Download Ollama first from [here](https://ollama.com/download)
+- Then download Ollama from [here](https://ollama.com/download)
 - After downloading Ollama, start Ollama server by typing: ```ollama serve``` in the terminal
 - Pull the Embedding Model by typing ```ollama pull nomic-embed-text```
 - Edit the **.env** file by placing your own GROQ API Key there. Get your GROQ API Key from [here](https://console.groq.com/keys). Make sure to create a GROQ account first.
