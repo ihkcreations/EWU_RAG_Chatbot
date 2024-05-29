@@ -8,6 +8,10 @@ from langchain_groq import ChatGroq
 import os
 import random
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 load_dotenv()
 DB_PATH = "chromadb"
 embedding_model_name="nomic-embed-text"
