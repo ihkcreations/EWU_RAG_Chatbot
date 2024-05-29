@@ -4,4 +4,5 @@ langchain_community
 langchain_core
 python-dotenv
 chromadb
+langchain-groq
 
