@@ -5,4 +5,3 @@ langchain_core
 python-dotenv
 chromadb
 langchain-groq
-pysqlite3-binary
